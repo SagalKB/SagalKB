@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Sagalb.
 - 👀 I’m interested in coding and technology.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python, javascript, css, java, HTML.
 - 💞️ I’m looking to collaborate on any open source project.
-- 📫 How to reach me sagalbarre17@outlook.com
+- 📫 How to reach me sagalbarre21@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I despise peanut butter.
+- ⚡ Fun fact: I can’t resist a good home decor aisle. Candles, throw pillows, and picture frames? I’m sold.
 
 <!---
 SagalKB/SagalKB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
