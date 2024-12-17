@@ -1,17 +1,60 @@
-### 👋 Hi, I’m Sagal Khalid Barre  
-- 🎓 MSc Computer Science Student | University of Birmingham  
-- 💻 I’m currently building projects in **Python** and learning **HTML, CSS, JavaScript**.  
-- 🚀 Recent Projects:  
-   - **Pilot Scheduling System**: Automates and optimises pilot rosters.  
-   - **ARENA Landing Page Challenge**: Coming soon!  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sagal's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1 class="animated-text">Welcome to My Portfolio ✨</h1>
+            <p class="subtitle">MSc Computer Science | Aspiring Software Engineer</p>
+            <a href="#projects" class="cta-button">View My Work</a>
+        </div>
+    </header>
 
-### 🔧 Technologies & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+    <!-- About Section -->
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>
+                Hi! I'm Sagal Khalid Barre, an MSc Computer Science student passionate about AI, Quantum Computing, and software development.
+            </p>
+        </div>
+    </section>
 
-### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagalKB&show_icons=true&theme=radical)  
+    <!-- Projects Section -->
+    <section class="projects" id="projects">
+        <div class="container">
+            <h2>My Projects</h2>
+            <div class="project-cards">
+                <div class="card">
+                    <h3>Pilot Scheduling System</h3>
+                    <p>A Python-based project to automate and optimize pilot shift scheduling.</p>
+                </div>
+                <div class="card">
+                    <h3>ARENA Challenge</h3>
+                    <p>Building a responsive landing page using HTML, CSS, and JavaScript.</p>
+                </div>
+                <div class="card">
+                    <h3>Advent of Code</h3>
+                    <p>Solving algorithmic challenges to enhance problem-solving skills.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>Connect with me on <a href="https://github.com/yourgithub" target="_blank">GitHub</a> | <a href="https://linkedin.com" target="_blank">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
+
 
 **Let’s connect!** [LinkedIn: https://www.linkedin.com/in/sagal-khalid-6b12991ba/] | [GitHub](https://github.com/SagalKB)
 
