@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Sagal Khalid Barre  
-- 🎓 MSc Computer Science Student | University of [Your Uni Name]  
+- 🎓 MSc Computer Science Student | University of Birmingham  
 - 💻 I’m currently building projects in **Python** and learning **HTML, CSS, JavaScript**.  
 - 🚀 Recent Projects:  
-   - **Pilot Scheduling System**: Automates and optimizes pilot rosters.  
+   - **Pilot Scheduling System**: Automates and optimises pilot rosters.  
    - **ARENA Landing Page Challenge**: Coming soon!  
 
 ### 🔧 Technologies & Tools  
